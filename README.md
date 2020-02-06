@@ -1,2 +1,9 @@
 # TheMentours
-This is initially an iOS based app focusing on mental health and networking with professionals to find mentors and challenge their problem solving skills
+This is initially an iOS based app focusing on 
+mental health especially among community of people of color
+networking with professionals and alumni of their schools
+finding mentors
+challenging problem solving skills
+discovering life goals and creating a path to them 
+
+
